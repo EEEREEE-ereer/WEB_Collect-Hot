@@ -17,4 +17,22 @@ https://javabetter.cn/
 # ChatGPT API 水龙头
 https://faucet.openkey.cloud/
 
+# Gitee AI
+https://ai.gitee.com/models
+
+# Python Tutorial
+https://www.w3schools.com/python/
+
+# Python Tutorial
+https://www.geeksforgeeks.org/python-programming-language/
+
+# Python Tutorial
+https://www.tutorialspoint.com/python/index.htm
+
+# github-Python
+https://github.com/python
+
+# The Incredible Growth of Python
+https://stackoverflow.blog/2017/09/06/incredible-growth-python/
+
 
