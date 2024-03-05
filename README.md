@@ -11,9 +11,10 @@ https://www.ituring.com.cn/book
 # 500+免费的中文编程电子书（附github链接）
 https://segmentfault.com/a/1190000021610049
 
-二哥的Java进阶之路
+# 二哥的Java进阶之路
 https://javabetter.cn/
 
-
+# ChatGPT API 水龙头
+https://faucet.openkey.cloud/
 
 
