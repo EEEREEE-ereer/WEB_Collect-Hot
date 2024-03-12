@@ -38,6 +38,7 @@ https://stackoverflow.blog/2017/09/06/incredible-growth-python/
 # GitHub 桌面版
 https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs
 
-
+# 图画视频
+https://github.com/BtbN/FFmpeg-Builds/releases
 
 
